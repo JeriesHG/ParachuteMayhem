@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: a401ae8e22eb6c341860ed732845dc1a
+timeCreated: 1439092231
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GTD_SPRITES_0
+    21300002: GTD_SPRITES_1
+    21300004: GTD_SPRITES_2
+    21300006: GTD_SPRITES_3
+    21300008: GTD_SPRITES_4
+    21300010: GTD_SPRITES_5
+    21300012: GTD_SPRITES_6
+    21300014: GTD_SPRITES_7
+    21300016: GTD_SPRITES_8
+    21300018: GTD_SPRITES_9
+    21300020: GTD_SPRITES_10
+    21300022: GTD_SPRITES_11
+    21300024: GTD_SPRITES_12
+    21300026: GTD_SPRITES_13
+    21300028: GTD_SPRITES_14
+    21300030: GTD_SPRITES_15
+    21300032: GTD_SPRITES_16
+    21300034: GTD_SPRITES_17
+    21300036: GTD_SPRITES_18
+    21300038: GTD_SPRITES_19
+    21300040: GTD_SPRITES_20
+    21300042: GTD_SPRITES_21
+    21300044: GTD_SPRITES_22
+    21300046: GTD_SPRITES_23
+    21300048: GTD_SPRITES_24
+    21300050: GTD_SPRITES_25
+    21300052: GTD_SPRITES_26
+    21300054: GTD_SPRITES_27
+    21300056: GTD_SPRITES_28
+    21300058: GTD_SPRITES_29
+    21300060: GTD_SPRITES_30
+    21300062: GTD_SPRITES_31
+    21300064: GTD_SPRITES_32
+    21300066: GTD_SPRITES_33
+    21300068: GTD_SPRITES_34
+    21300070: GTD_SPRITES_35
+    21300072: GTD_SPRITES_36
+    21300074: GTD_SPRITES_37
+    21300076: GTD_SPRITES_38
+    21300078: GTD_SPRITES_39
+    21300080: GTD_SPRITES_40
+    21300082: GTD_SPRITES_41
+    21300084: GTD_SPRITES_42
+    21300086: GTD_SPRITES_43
+    21300088: GTD_SPRITES_44
+    21300090: GTD_SPRITES_45
+    21300092: GTD_SPRITES_46
+    21300094: GTD_SPRITES_47
+    21300096: GTD_SPRITES_48
+    21300098: GTD_SPRITES_49
+    21300100: GTD_SPRITES_50
+    21300102: GTD_SPRITES_51
+    21300104: GTD_SPRITES_52
+    21300106: GTD_SPRITES_53
+    21300108: GTD_SPRITES_54
+    21300110: GTD_SPRITES_55
+    21300112: GTD_SPRITES_56
+    21300114: GTD_SPRITES_57
+    21300116: GTD_SPRITES_58
+    21300118: GTD_SPRITES_59
+    21300120: GTD_SPRITES_60
+    21300122: GTD_SPRITES_61
+    21300124: GTD_SPRITES_62
+    21300126: GTD_SPRITES_63
+    21300128: GTD_SPRITES_64
+    21300130: GTD_SPRITES_65
+    21300132: GTD_SPRITES_66
+    21300134: GTD_SPRITES_67
+    21300136: GTD_SPRITES_68
+    21300138: GTD_SPRITES_69
+    21300140: GTD_SPRITES_70
+    21300142: GTD_SPRITES_71
+    21300144: GTD_SPRITES_72
+    21300146: GTD_SPRITES_73
+    21300148: GTD_SPRITES_74
+    21300150: GTD_SPRITES_75
+    21300152: GTD_SPRITES_76
+    21300154: GTD_SPRITES_77
+    21300156: GTD_SPRITES_78
+    21300158: GTD_SPRITES_79
+    21300160: GTD_SPRITES_80
+    21300162: GTD_SPRITES_81
+    21300164: GTD_SPRITES_82
+    21300166: GTD_SPRITES_83
+    21300168: GTD_SPRITES_84
+    21300170: GTD_SPRITES_85
+    21300172: GTD_SPRITES_86
+    21300174: GTD_SPRITES_87
+    21300176: GTD_SPRITES_88
+    21300178: GTD_SPRITES_89
+    21300180: GTD_SPRITES_90
+    21300182: GTD_SPRITES_91
+    21300184: GTD_SPRITES_92
+    21300186: GTD_SPRITES_93
+    21300188: GTD_SPRITES_94
+    21300190: GTD_SPRITES_95
+    21300192: GTD_SPRITES_96
+    21300194: GTD_SPRITES_97
+    21300196: GTD_SPRITES_98
+    21300198: GTD_SPRITES_99
+    21300200: GTD_SPRITES_100
+    21300202: GTD_SPRITES_101
+    21300204: GTD_SPRITES_102
+    21300206: GTD_SPRITES_103
+    21300208: GTD_SPRITES_104
+    21300210: GTD_SPRITES_105
+    21300212: GTD_SPRITES_106
+    21300214: GTD_SPRITES_107
+    21300216: GTD_SPRITES_108
+    21300218: GTD_SPRITES_109
+    21300220: GTD_SPRITES_110
+    21300222: GTD_SPRITES_111
+    21300224: GTD_SPRITES_112
+    21300226: GTD_SPRITES_113
+    21300228: GTD_SPRITES_114
+    21300230: GTD_SPRITES_115
+    21300232: GTD_SPRITES_116
+    21300234: GTD_SPRITES_117
+    21300236: GTD_SPRITES_118
+    21300238: GTD_SPRITES_119
+    21300240: GTD_SPRITES_120
+    21300242: GTD_SPRITES_121
+    21300244: GTD_SPRITES_122
+    21300246: GTD_SPRITES_123
+    21300248: GTD_SPRITES_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GTD_SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 609
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 609
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 609
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 609
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 609
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 609
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 609
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 577
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 577
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 577
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 577
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 577
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 577
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 577
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 577
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 577
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 545
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 545
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 545
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 545
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 545
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 545
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 545
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 513
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 513
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 513
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 513
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 513
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 513
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 513
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 481
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 481
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 481
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 481
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 481
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 481
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 481
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 449
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_42
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 449
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 449
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 449
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 449
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 449
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 448
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 448
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 448
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 448
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 449
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 417
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 417
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 417
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 417
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 417
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 417
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 417
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_59
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 385
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 385
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_61
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 385
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 385
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 385
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 385
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 385
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 385
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_68
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 385
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 327
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 328
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 327
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 329
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 347
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 320
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 322
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 345
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 348
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_78
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 323
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_79
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 347
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_80
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 321
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 289
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_82
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 289
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 289
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 289
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_85
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 289
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_86
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 289
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_87
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 288
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 257
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 257
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 257
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_91
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 257
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_92
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 257
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_93
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 256
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_94
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_98
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 225
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_99
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 225
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_100
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 225
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_101
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_103
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 193
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 193
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 193
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_107
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 193
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_108
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_109
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_110
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 150
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_111
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_113
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_114
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 161
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_115
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_116
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_117
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_119
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_121
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_122
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_123
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GTD_SPRITES_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1408 @@
+fileFormatVersion: 2
+guid: 97404b5cbe2d55f44be13bfcd5fbdeb0
+timeCreated: 1439049478
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TurretSpritesheet_0
+    21300002: TurretSpritesheet_1
+    21300004: TurretSpritesheet_2
+    21300006: TurretSpritesheet_3
+    21300008: TurretSpritesheet_4
+    21300010: TurretSpritesheet_5
+    21300012: TurretSpritesheet_6
+    21300014: TurretSpritesheet_7
+    21300016: TurretSpritesheet_8
+    21300018: TurretSpritesheet_9
+    21300020: TurretSpritesheet_10
+    21300022: TurretSpritesheet_11
+    21300024: TurretSpritesheet_12
+    21300026: TurretSpritesheet_13
+    21300028: TurretSpritesheet_14
+    21300030: TurretSpritesheet_15
+    21300032: TurretSpritesheet_16
+    21300034: TurretSpritesheet_17
+    21300036: TurretSpritesheet_18
+    21300038: TurretSpritesheet_19
+    21300040: TurretSpritesheet_20
+    21300042: TurretSpritesheet_21
+    21300044: TurretSpritesheet_22
+    21300046: TurretSpritesheet_23
+    21300048: TurretSpritesheet_24
+    21300050: TurretSpritesheet_25
+    21300052: TurretSpritesheet_26
+    21300054: TurretSpritesheet_27
+    21300056: TurretSpritesheet_28
+    21300058: TurretSpritesheet_29
+    21300060: TurretSpritesheet_30
+    21300062: TurretSpritesheet_31
+    21300064: TurretSpritesheet_32
+    21300066: TurretSpritesheet_33
+    21300068: TurretSpritesheet_34
+    21300070: TurretSpritesheet_35
+    21300072: TurretSpritesheet_36
+    21300074: TurretSpritesheet_37
+    21300076: TurretSpritesheet_38
+    21300078: TurretSpritesheet_39
+    21300080: TurretSpritesheet_40
+    21300082: TurretSpritesheet_41
+    21300084: TurretSpritesheet_42
+    21300086: TurretSpritesheet_43
+    21300088: TurretSpritesheet_44
+    21300090: TurretSpritesheet_45
+    21300092: TurretSpritesheet_46
+    21300094: TurretSpritesheet_47
+    21300096: TurretSpritesheet_48
+    21300098: TurretSpritesheet_49
+    21300100: TurretSpritesheet_50
+    21300102: TurretSpritesheet_51
+    21300104: TurretSpritesheet_52
+    21300106: TurretSpritesheet_53
+    21300108: TurretSpritesheet_54
+    21300110: TurretSpritesheet_55
+    21300112: TurretSpritesheet_56
+    21300114: TurretSpritesheet_57
+    21300116: TurretSpritesheet_58
+    21300118: TurretSpritesheet_59
+    21300120: TurretSpritesheet_60
+    21300122: TurretSpritesheet_61
+    21300124: TurretSpritesheet_62
+    21300126: TurretSpritesheet_63
+    21300128: TurretSpritesheet_64
+    21300130: TurretSpritesheet_65
+    21300132: TurretSpritesheet_66
+    21300134: TurretSpritesheet_67
+    21300136: TurretSpritesheet_68
+    21300138: TurretSpritesheet_69
+    21300140: TurretSpritesheet_70
+    21300142: TurretSpritesheet_71
+    21300144: TurretSpritesheet_72
+    21300146: TurretSpritesheet_73
+    21300148: TurretSpritesheet_74
+    21300150: TurretSpritesheet_75
+    21300152: TurretSpritesheet_76
+    21300154: TurretSpritesheet_77
+    21300156: TurretSpritesheet_78
+    21300158: TurretSpritesheet_79
+    21300160: TurretSpritesheet_80
+    21300162: TurretSpritesheet_81
+    21300164: TurretSpritesheet_82
+    21300166: TurretSpritesheet_83
+    21300168: TurretSpritesheet_84
+    21300170: TurretSpritesheet_85
+    21300172: TurretSpritesheet_86
+    21300174: TurretSpritesheet_87
+    21300176: TurretSpritesheet_88
+    21300178: TurretSpritesheet_89
+    21300180: TurretSpritesheet_90
+    21300182: TurretSpritesheet_91
+    21300184: TurretSpritesheet_92
+    21300186: TurretSpritesheet_93
+    21300188: TurretSpritesheet_94
+    21300190: TurretSpritesheet_95
+    21300192: TurretSpritesheet_96
+    21300194: TurretSpritesheet_97
+    21300196: TurretSpritesheet_98
+    21300198: TurretSpritesheet_99
+    21300200: TurretSpritesheet_100
+    21300202: TurretSpritesheet_101
+    21300204: TurretSpritesheet_102
+    21300206: TurretSpritesheet_103
+    21300208: TurretSpritesheet_104
+    21300210: TurretSpritesheet_105
+    21300212: TurretSpritesheet_106
+    21300214: TurretSpritesheet_107
+    21300216: TurretSpritesheet_108
+    21300218: TurretSpritesheet_109
+    21300220: TurretSpritesheet_110
+    21300222: TurretSpritesheet_111
+    21300224: TurretSpritesheet_112
+    21300226: TurretSpritesheet_113
+    21300228: TurretSpritesheet_114
+    21300230: TurretSpritesheet_115
+    21300232: TurretSpritesheet_116
+    21300234: TurretSpritesheet_117
+    21300236: TurretSpritesheet_118
+    21300238: TurretSpritesheet_119
+    21300240: TurretSpritesheet_120
+    21300242: TurretSpritesheet_121
+    21300244: TurretSpritesheet_122
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TurretSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 934
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 934
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 934
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 934
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 934
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 934
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 934
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 934
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 934
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 934
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 935
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 935
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 935
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 935
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 935
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 935
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 935
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 857
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 857
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 905
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 857
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 857
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 857
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 857
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 857
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 857
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 818
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 744
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 744
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 744
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 744
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 744
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 744
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 744
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 805
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 744
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 744
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 744
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 744
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 744
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 689
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 615
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 615
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 615
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 615
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 615
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 676
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 615
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 615
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 615
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 615
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 663
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 615
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 615
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 615
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 547
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 547
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 547
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 547
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 553
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 479
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 490
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 419
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 419
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 419
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 419
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 419
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 419
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 419
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 419
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 419
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 420
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 420
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 420
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 420
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 420
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 420
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 420
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 342
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 342
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 390
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 342
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 342
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 342
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 342
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 342
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 342
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 303
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 229
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 229
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 229
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 229
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 229
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 229
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 229
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 290
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 229
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 229
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 229
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 229
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 229
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 174
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 100
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 100
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 100
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 100
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 100
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 148
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 100
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 100
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 100
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 32
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 32
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 32
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 32
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurretSpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 934
+        width: 895
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
