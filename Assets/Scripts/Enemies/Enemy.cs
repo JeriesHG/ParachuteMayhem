@@ -13,6 +13,8 @@ public class Enemy : MonoBehaviour
 	float  fallingDirection = -1f;
 	public float moveSpeed = 2f;
 
+	public LayerMask test;
+
 	public string enemyName = "";
 	public double hitpoints = 5f;
 	public int pointsWorth = 0;
@@ -33,7 +35,7 @@ public class Enemy : MonoBehaviour
 	void Start ()
 	{
 		weapons = new List <GameObject> ();
-		animator = GetComponent<Animator>();
+		animator = GetComponent<Animator> ();
 		characterSettings ();
 
 
@@ -42,7 +44,7 @@ public class Enemy : MonoBehaviour
 	}
 	
 
-	void Update ()
+	void FixedUpdate ()
 	{
 	
 		if (isFalling) {
@@ -51,9 +53,19 @@ public class Enemy : MonoBehaviour
 			moveAmount.x = moveDirection * moveSpeed * Time.deltaTime;
 		}
 		transform.Translate (moveAmount);
+
+
+		RaycastHit2D hit = Physics2D.Raycast (transform.position, Vector3.down, 1f, test);
+		Debug.DrawRay (transform.position, Vector3.down);
+		if (hit.collider != null) {
+			Debug.Log (hit.collider.name);
+			isFalling = false;
+			animator.SetBool ("isFalling", false);
+		}
+
 	}
 	
-	void OnCollisionEnter2D (Collision2D Entity)
+	/*void OnCollisionEnter2D (Collision2D Entity)
 	{
 	
 		switch (Entity.gameObject.tag) {
@@ -68,14 +80,15 @@ public class Enemy : MonoBehaviour
 			animator.SetBool("isFalling",false);
 			break;
 		}
-	}
+	}*/
 
-	private void characterSettings(){
+	private void characterSettings ()
+	{
 		startXPos = transform.position.x;
 		//if the starting position is in the right side (x>0) then it should run to the left
 		//else it will flip the sprite animation
 		if (startXPos > 0) {
-			moveDirection *=-1;
+			moveDirection *= -1;
 		} else {
 			//flipping animation
 			Vector3 theScale = transform.localScale;
