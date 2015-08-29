@@ -58,7 +58,6 @@ public class Enemy : MonoBehaviour
 		RaycastHit2D hit = Physics2D.Raycast (transform.position, Vector3.down, 1f, test);
 		Debug.DrawRay (transform.position, Vector3.down);
 		if (hit.collider != null) {
-			Debug.Log (hit.collider.name);
 			isFalling = false;
 			animator.SetBool ("isFalling", false);
 		}
