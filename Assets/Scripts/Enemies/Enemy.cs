@@ -13,7 +13,7 @@ public class Enemy : MonoBehaviour
 	float  fallingDirection = -1f;
 	public float moveSpeed = 2f;
 
-	public LayerMask test;
+	public LayerMask contactLayer;
 
 	public string enemyName = "";
 	public double hitpoints = 5f;
@@ -55,8 +55,7 @@ public class Enemy : MonoBehaviour
 		transform.Translate (moveAmount);
 
 
-		RaycastHit2D hit = Physics2D.Raycast (transform.position, Vector3.down, 1f, test);
-		Debug.DrawRay (transform.position, Vector3.down);
+		RaycastHit2D hit = Physics2D.Raycast (transform.position, Vector3.down, 1f, contactLayer);
 		if (hit.collider != null) {
 			isFalling = false;
 			animator.SetBool ("isFalling", false);
