@@ -17,8 +17,8 @@ public class GameManager : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		StartCoroutine (spawnWaves ());
 		createTerrain ();
+		StartCoroutine (spawnWaves ());
 	}
 	
 	// Update is called once per frame
@@ -62,12 +62,13 @@ public class GameManager : MonoBehaviour
 
 	private void createTerrain ()
 	{
-		float startXPos = -8f;
+		float startXPos = -11.4f;
 
-		for (int i = 0; i<35; i++) {
+		for (int i = 0; i<45; i++) {
 			startXPos += 0.5f;
-			Vector3 pos = new Vector3 (startXPos, -5.29f);
-			Instantiate (Resources.Load ("Terrain/Floor"), pos, Quaternion.identity);
+			Vector3 pos = new Vector3 (startXPos, -4.9f);
+			GameObject floor = Instantiate (Resources.Load ("Terrain/Floor"), pos, Quaternion.identity) as GameObject;
+			floor.transform.parent = GameObject.Find ("Terrain").transform;
 		}
 	}
 }
